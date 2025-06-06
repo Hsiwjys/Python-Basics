@@ -2,6 +2,7 @@
 functions are create using to keyword def
 Syntax:
 def fun_name(Arguments):
+    your code with or without return type
 """
 
 
